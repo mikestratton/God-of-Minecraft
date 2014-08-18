@@ -7,7 +7,7 @@ The question is often asked: Is there a God in Minecraft? The answer to this que
 
 God of Minecraft - Writing Minecraft Plugins in Java
 
-Video created while reading the book: 
+Video created while reading the book: https://www.youtube.com/watch?v=iwoqh1P7a0s
 "Learn to Program with Minecraft Plugins - Create Flying Creepers and Flaming Cows in Java" ~ Andy Hunt
 
 Learn more about this book at: http://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins
