@@ -34,8 +34,12 @@ public class Simple extends JavaPlugin {
     if (commandLabel.equalsIgnoreCase("simple")) {
       if (sender instanceof Player) { 
         Player me = (Player)sender;
-        // Put your code after this line:
-        //(2)
+        
+        
+        // Changed original code from book
+        // Player gets to play God in Minecraft
+        // Instantly spawn hundreds of passive mobs
+        // by simply entering the command: "/simple"
         float volume = 12.6f;
         float pitch = 1.0f;
         me.sendMessage("GOD OF MINECRAFT SAID: 'LET THERE BE LIFE'");
